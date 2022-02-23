@@ -9,4 +9,4 @@ Cependant, j'ai pris connaissance récemment de la librairie LitiEngine (https:/
 
 J'aimerais dans un premier temps "Maveniser" et "Springer" le projet afin d'utiliser les outils d'automatisation de Maven et Spring (vous l'avez sûrement deviné) puis me consacrer à la transformation du projet en jeu 2D fonctionnel. 
 
-Pour les sprites, je compte utiliser Aseprite qui m'a été conseillé par un camarade de classe. Il y aura bien sûr un certain temps d'adaptation avant que je n'arrive à créer de sprite acceptable.
+Pour les sprites, je compte utiliser Aseprite qui m'a été conseillé par un camarade de classe. Il y aura bien sûr un certain temps d'adaptation avant que je n'arrive à créer des sprites acceptables.
