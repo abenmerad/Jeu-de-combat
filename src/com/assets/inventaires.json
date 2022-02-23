@@ -1,0 +1,12 @@
+{
+  "Inventaire": [
+    {
+      "nom": "Petit sac en paille",
+      "capacite": 25
+    },
+    {
+      "nom": "Cartable en cuir",
+      "capacite": 30
+    }
+  ]
+}

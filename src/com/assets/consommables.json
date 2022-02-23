@@ -1,0 +1,36 @@
+{
+  "Vie": [
+    {
+      "nom":"Gourde d'eau",
+      "poids": 0.6,
+      "point": 6
+    },
+    {
+      "nom":"Potion de santé",
+      "poids": 1.5,
+      "point": 20
+    },
+    {
+      "nom":"Bière perimée",
+      "poids": 0.6,
+      "point": -20
+    },
+    {
+      "nom":"Eau ducale",
+      "poids": 6,
+      "point": 50
+    }
+  ],
+  "Degats": [
+    {
+      "nom":"Potion de force",
+      "poids": 0.6,
+      "point": 20
+    },
+    {
+      "nom":"Jus de bagarre",
+      "poids": 5,
+      "point": 23
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "Tete": [
+    {
+      "nom": "Vieux foulard décoloré",
+      "poids": 0.2,
+      "point": 1
+    },
+    {
+      "nom": "Casque en cuir usé",
+      "poids": 1.2,
+      "point": 2
+    },
+    {
+      "nom": "Heaume rouillé",
+      "poids": 3.4,
+      "point": 15
+    },
+    {
+      "nom": "Casque en dimeritium",
+      "poids": 30,
+      "point": 25
+    }
+  ],
+  "Buste": [
+    {
+      "nom": "Houppelande jaunie",
+      "poids": 3,
+      "point": 5
+    },
+    {
+      "nom": "Plastron singlant",
+      "poids": 20,
+      "point": 20
+    },
+    {
+      "nom": "Plastron de chevalier",
+      "poids": 35,
+      "point": 50
+    }
+  ],
+  "Main": [
+    {
+      "nom": "Gant en cuir",
+      "poids": 0.9,
+      "point": 5
+    },
+    {
+      "nom": "Gantelet de nomade",
+      "poids": 3,
+      "point": 9
+    },
+    {
+      "nom": "Moufle",
+      "poids": 1,
+      "point": 0
+    },
+    {
+      "nom": "Mitaine en mauvais état",
+      "poids": 3,
+      "point": 1
+    },
+    {
+      "nom": "Gant de pourfendeur",
+      "poids": 3,
+      "point": 30
+    }
+  ],
+  "Jambe": [
+    {
+      "nom": "Jambière de soldat",
+      "poids": 3,
+      "point": 10
+    },
+    {
+      "nom": "Pantalon troué",
+      "poids": 1,
+      "point": 0
+    },
+    {
+      "nom": "Jambière de combattant",
+      "poids": 20,
+      "point": 45
+    }
+  ],
+  "Pied": [
+    {
+      "nom": "Chaussette trouée",
+      "poids": 0.3,
+      "point": 0
+    },
+    {
+      "nom": "Chausse de mandiant",
+      "poids": 1,
+      "point": 3
+    },
+    {
+      "nom": "Chaussure trempée en cuir",
+      "poids": 2,
+      "point": 5
+    }
+  ]
+}

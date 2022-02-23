@@ -1,0 +1,78 @@
+{
+  "Humain": [
+    {
+      "nom": "Homme en forme",
+      "niveau": 0,
+      "sante": 100,
+      "armure": 10,
+      "degats": 5
+    },
+    {
+      "nom": "Chevalier errant",
+      "niveau": 0,
+      "sante": 120,
+      "armure": 10,
+      "degats": 9
+    },
+    {
+      "nom": "Chasseur averti",
+      "niveau": 0,
+      "sante": 70,
+      "armure": 10,
+      "degats": 4
+    },
+    {
+      "nom": "Mercenaire",
+      "niveau": 0,
+      "sante": 100,
+      "armure": 10,
+      "degats": 9
+    }
+  ],
+  "Animal": [
+    {
+      "nom": "Loup solitaire",
+      "niveau": 0,
+      "sante": 150,
+      "armure": 0,
+      "degats": 30
+    },
+    {
+      "nom": "Chien galleux",
+      "niveau": 0,
+      "sante": 130,
+      "armure": 0,
+      "degats": 36
+    },
+    {
+      "nom": "Panthère noire",
+      "niveau": 0,
+      "sante": 130,
+      "armure": 0,
+      "degats": 36
+    }
+  ],
+  "Elementaire": [
+    {
+      "nom": "Golem de fer",
+      "niveau": 0,
+      "sante": 180,
+      "armure": 30,
+      "degats": 40
+    },
+    {
+      "nom": "Golem de feu",
+      "niveau": 0,
+      "sante": 80,
+      "armure": 80,
+      "degats": 40
+    },
+    {
+      "nom": "Demon de l'outre-tombe",
+      "niveau": 0,
+      "sante": 80,
+      "armure": 200,
+      "degats": 20
+    }
+  ]
+}

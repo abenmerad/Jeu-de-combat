@@ -1,0 +1,53 @@
+{
+  "Arme blanche": [
+    {
+      "nom": "Epee en bois",
+      "degats": 2,
+      "poids": 2.2
+    },
+    {
+      "nom": "Epee en bois durci",
+      "degats": 3,
+      "poids": 2.5
+    },
+    {
+      "nom": "Epee en fer",
+      "degats": 6,
+      "poids": 3
+    },
+    {
+      "nom": "Epee en acier",
+      "degats": 8,
+      "poids": 4.4
+    },
+    {
+      "nom": "Epee en argent",
+      "degats": 10,
+      "poids": 8
+    },
+    {
+      "nom": "Hache en fer",
+      "degats": 7,
+      "poids": 5
+    },
+    {
+      "nom": "Leviathan",
+      "degats": 30,
+      "poids": 40
+    }
+  ],
+  "Arme à lancer": [
+    {
+      "nom": "Shuriken",
+      "degats": 4,
+      "poids": 0.1,
+      "precision": 0.48
+    },
+    {
+      "nom": "Couteau de lancer",
+      "degats": 8,
+      "poids": 0.4,
+      "precision": 0.58
+    }
+  ]
+}
